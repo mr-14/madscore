@@ -1,0 +1,25 @@
+{
+  "name": "madscore",
+  "version": "0.1.0",
+  "description": "An intuitive tool to create sheet music",
+  "keywords": [
+    "music",
+    "notation",
+    "guitar",
+    "tablature"
+  ],
+  "author": "Mr. 14",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-object-assign": "^6.8.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-es2015-loose": "^8.0.0",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {}
+}
